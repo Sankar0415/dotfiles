@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tvl.shankar@gmail.com
+	name = sankar subramanian
